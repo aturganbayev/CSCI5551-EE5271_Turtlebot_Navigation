@@ -128,4 +128,4 @@ ros2 run <your_package> aruco_follower
 
 ## Authors
 
-CSCI5551 / EE5271 Final Project Team
+Azamat Turganbayev
