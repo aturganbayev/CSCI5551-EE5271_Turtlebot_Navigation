@@ -48,6 +48,8 @@ Reacts to the `/obstacle` flag by backing up and turning in place at 30 Hz.
 
 When an obstacle is detected the robot moves at −0.03 m/s linearly while turning.
 
+https://github.com/user-attachments/assets/ea69c3eb-adb6-4360-bffa-69687fe9462c
+
 ---
 
 ### `aruco_follower.py`
