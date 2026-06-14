@@ -59,6 +59,13 @@ Follows an ArUco marker by reading its pose from the TF tree (published by the A
 - **Subscribes:** `/scan` (`sensor_msgs/LaserScan`)
 - **Publishes:** `cmd_vel` (`geometry_msgs/Twist`)
 - **TF:** looks up `ar_marker_<id>` → `base_link`
+
+
+
+https://github.com/user-attachments/assets/f42848a3-3814-481d-a26d-fa46979428c8
+
+
+  
 - **Parameters:**
 
 | Parameter | Default | Description |
